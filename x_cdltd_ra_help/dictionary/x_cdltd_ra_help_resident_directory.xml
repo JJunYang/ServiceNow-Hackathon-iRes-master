@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Resident Directory" max_length="40" name="x_cdltd_ra_help_resident_directory" sizeclass="3" type="collection">
+        <element display="true" label="First Name" mandatory="true" max_length="40" name="ra_first_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="ra_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="-5"/>
+                <element inactive_on_update="false" label="Work in Progress" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Student CASE ID" max_length="32" name="student_case_id" read_only="true" reference="x_cdltd_ra_help_issue_request" type="reference"/>
+        <element attributes="encode_utf8=false" label="Student name" max_length="32" name="student_name" read_only="true" reference="x_cdltd_ra_help_issue_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Task ID" max_length="40" name="task_id" type="string" use_dynamic_default="true"/>
+        <element attributes="encode_utf8=false" label="Name" max_length="32" name="user_name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="student_name"/>
+        </index>
+        <index name="index2">
+            <element name="student_case_id"/>
+        </index>
+        <index name="index3">
+            <element name="user_name"/>
+        </index>
+    </element>
+</database>

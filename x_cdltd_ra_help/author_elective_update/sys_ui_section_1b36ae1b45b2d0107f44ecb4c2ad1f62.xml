@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="1b36ae1b45b2d0107f44ecb4c2ad1f62" sys_domain="global" table="x_cdltd_ra_help_issue_request" version="3" view="Department_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>0</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>1f36ae1b45b2d0107f44ecb4c2ad1f69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>9336ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>2</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>1736ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>9736ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>4</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>1b36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>9b36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_date</element>
+            <position>6</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>1f36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>7</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>9f36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>1336ae1b45b2d0107f44ecb4c2ad1f6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue_type</element>
+            <position>9</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>9336ae1b45b2d0107f44ecb4c2ad1f6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_desc</element>
+            <position>10</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>1736ae1b45b2d0107f44ecb4c2ad1f6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_details</element>
+            <position>11</position>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_id>9736ae1b45b2d0107f44ecb4c2ad1f6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_cdltd_ra_help_issue_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>JunAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_ra_help_issue_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+            <sys_update_name>sys_ui_section_1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_update_name>
+            <sys_updated_by>JunAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Department View" name="Department_View">0f36ae1b45b2d0107f44ecb4c2ad1f44</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>sys_ui_section_1b36ae1b45b2d0107f44ecb4c2ad1f62</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="1b36ae1b45b2d0107f44ecb4c2ad1f62" sys_domain="global" table="x_cdltd_ra_help_issue_request" version="3" view="Department_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>student_name</element><position>0</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>1f36ae1b45b2d0107f44ecb4c2ad1f69</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>9336ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>2</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>1736ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>9736ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>4</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>1b36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>5</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>9b36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_date</element><position>6</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>1f36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>7</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>9f36ae1b45b2d0107f44ecb4c2ad1f6a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>1336ae1b45b2d0107f44ecb4c2ad1f6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>issue_type</element><position>9</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>9336ae1b45b2d0107f44ecb4c2ad1f6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>problem_desc</element><position>10</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>1736ae1b45b2d0107f44ecb4c2ad1f6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>additional_details</element><position>11</position><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_id>9736ae1b45b2d0107f44ecb4c2ad1f6b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_issue_request" sys_domain="global" view="0f36ae1b45b2d0107f44ecb4c2ad1f44">1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_ui_section><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_cdltd_ra_help_issue_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>JunAdmin</sys_created_by><sys_created_on>2020-08-28 14:28:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_ra_help_issue_request</sys_name><sys_overrides/><sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package><sys_policy/><sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope><sys_update_name>sys_ui_section_1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_update_name><sys_updated_by>JunAdmin</sys_updated_by><sys_updated_on>2020-08-28 14:28:50</sys_updated_on><sys_user/><title>false</title><view display_value="Department View" name="Department_View">0f36ae1b45b2d0107f44ecb4c2ad1f44</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1714874652</payload_hash>
+        <record_name>Issue Request</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>JunAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 14:28:50</sys_created_on>
+        <sys_id>5b36ae1b45b2d0107f44ecb4c2ad1f6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17435789adc0000001</sys_recorded_at>
+        <sys_updated_by>JunAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 14:28:50</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d336ae1b23b2d010786299be153eda6d</update_guid>
+        <update_guid_history>d336ae1b23b2d010786299be153eda6d:-1714874652</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>JunAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 14:39:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>26e6075ca7a8499f923b407e465f39b1</sys_id>
+        <sys_metadata>1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_ra_help_issue_request</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent display_value="Issue Request">af201a07453a90107f44ecb4c2ad1fd7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_1b36ae1b45b2d0107f44ecb4c2ad1f62</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_1b36ae1b45b2d0107f44ecb4c2ad1f62">5b36ae1b45b2d0107f44ecb4c2ad1f6d</sys_update_version>
+        <sys_updated_by>JunAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 14:39:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

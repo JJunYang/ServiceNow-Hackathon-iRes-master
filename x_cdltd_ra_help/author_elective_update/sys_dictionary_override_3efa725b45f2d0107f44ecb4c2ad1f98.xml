@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent>correlation_id</dependent>
+        <dependent_override>true</dependent_override>
+        <display_override>false</display_override>
+        <element>parent</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_cdltd_ra_help_department_task</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 15:59:28</sys_created_on>
+        <sys_id>3efa725b45f2d0107f44ecb4c2ad1f98</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>parent</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_dictionary_override_3efa725b45f2d0107f44ecb4c2ad1f98</sys_update_name>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 15:59:28</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>sys_dictionary_override_3efa725b45f2d0107f44ecb4c2ad1f98</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent>correlation_id</dependent><dependent_override>true</dependent_override><display_override>false</display_override><element>parent</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_cdltd_ra_help_department_task</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>DikshaAdmin</sys_created_by><sys_created_on>2020-08-28 15:59:28</sys_created_on><sys_id>3efa725b45f2d0107f44ecb4c2ad1f98</sys_id><sys_mod_count>1</sys_mod_count><sys_name>parent</sys_name><sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package><sys_policy/><sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope><sys_update_name>sys_dictionary_override_3efa725b45f2d0107f44ecb4c2ad1f98</sys_update_name><sys_updated_by>DikshaAdmin</sys_updated_by><sys_updated_on>2020-08-28 15:59:28</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>795430296</payload_hash>
+        <record_name>parent</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 15:59:28</sys_created_on>
+        <sys_id>36fa725b45f2d0107f44ecb4c2ad1fa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17435cb957d0000001</sys_recorded_at>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 15:59:28</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>befa725bf9f2d010ef2d15b257c4de9f</update_guid>
+        <update_guid_history>befa725bf9f2d010ef2d15b257c4de9f:795430296,fafa725b9af2d0100e545187df8bd09b:15530986</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 16:05:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>6b10f515d59e40828faf1e6a07a2cc71</sys_id>
+        <sys_metadata>3efa725b45f2d0107f44ecb4c2ad1f98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parent</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent display_value="">f6a7369745f2d0107f44ecb4c2ad1fad</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_3efa725b45f2d0107f44ecb4c2ad1f98</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_3efa725b45f2d0107f44ecb4c2ad1f98">36fa725b45f2d0107f44ecb4c2ad1fa0</sys_update_version>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 16:05:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

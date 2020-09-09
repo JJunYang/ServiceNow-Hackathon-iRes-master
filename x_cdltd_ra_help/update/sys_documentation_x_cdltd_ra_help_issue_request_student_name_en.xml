@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="student_name" label="Student Name" language="en" table="x_cdltd_ra_help_issue_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <help/>
+            <hint/>
+            <label>Student Name</label>
+            <language>en</language>
+            <name>x_cdltd_ra_help_issue_request</name>
+            <plural>Student Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 19:32:31</sys_created_on>
+            <sys_id>0e226e8f453a90107f44ecb4c2ad1fd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Student Name</sys_name>
+            <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_ra_help_issue_request_student_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 19:32:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

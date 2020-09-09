@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>sys_created_by</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate Task Table</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	var caseID = g_form.getReference('number', changeValues);
+	
+	function changeValues(caseID) {
+// 	g_form.setValue('student_name', caseID.student_name.sys_id);
+// 	g_form.addInfoMessage(caseID.student_name.name);
+// 	g_form.setValue('issue',caseID.issue.sys_id);
+}
+	
+}
+
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 17:53:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5ce457934576d0107f44ecb4c2ad1f96</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Populate Task Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_script_client_5ce457934576d0107f44ecb4c2ad1f96</sys_update_name>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 18:31:18</sys_updated_on>
+        <table>x_cdltd_ra_help_department_task</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

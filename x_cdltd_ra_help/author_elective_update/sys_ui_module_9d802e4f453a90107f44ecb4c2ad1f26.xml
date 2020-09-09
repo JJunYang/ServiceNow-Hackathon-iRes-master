@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Student Directory">5d802e4f453a90107f44ecb4c2ad1f24</application>
+        <filter/>
+        <name>sys_user_emails</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:25:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d802e4f453a90107f44ecb4c2ad1f26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user_emails</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_ui_module_9d802e4f453a90107f44ecb4c2ad1f26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:25:22</sys_updated_on>
+        <table>x_cdltd_ra_help_sys_user_email</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>sys_ui_module_9d802e4f453a90107f44ecb4c2ad1f26</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Student Directory">5d802e4f453a90107f44ecb4c2ad1f24</application><filter/><name>sys_user_emails</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>admin</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 19:25:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d802e4f453a90107f44ecb4c2ad1f26</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user_emails</sys_name><sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package><sys_policy/><sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope><sys_update_name>sys_ui_module_9d802e4f453a90107f44ecb4c2ad1f26</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 19:25:22</sys_updated_on><table>x_cdltd_ra_help_sys_user_email</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1955399918</payload_hash>
+        <record_name>sys_user_emails</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:25:22</sys_created_on>
+        <sys_id>19802e4f453a90107f44ecb4c2ad1f28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1743161ba9b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:25:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>51802e4fd13a901044a548a562182228</update_guid>
+        <update_guid_history>51802e4fd13a901044a548a562182228:1955399918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:42:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>4d2b0c4e74154f6dbcafa8941b0d9e11</sys_id>
+        <sys_metadata>9d802e4f453a90107f44ecb4c2ad1f26</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user_emails</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_9d802e4f453a90107f44ecb4c2ad1f26</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_9d802e4f453a90107f44ecb4c2ad1f26">19802e4f453a90107f44ecb4c2ad1f28</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:42:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

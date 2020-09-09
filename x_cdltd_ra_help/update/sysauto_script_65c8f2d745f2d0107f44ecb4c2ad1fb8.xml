@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 12:00:00</entered_time>
+        <name>Request Notification</name>
+        <run_as display_value="Ariel Ji">bbdf6dcf45b690107f44ecb4c2ad1fd2</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 01:00:00</run_period>
+        <run_start>2020-08-28 15:49:49</run_start>
+        <run_time>1970-01-01 00:00:00</run_time>
+        <run_type>periodically</run_type>
+        <script><![CDATA[var gr = new GlideRecord('x_cdltd_ra_help_issue_request');
+var pickUpLeadTime = gs.getProperty('x_cdltd_ra_help_issue_request',24) * 60 * 60 * 1000;
+	
+	gr.addQuery('state',3);
+	gr.query();
+
+	
+	while (gr.next()) {
+		gs.eventQueue('x_cdltd_ra_help_issue_request',gr,gr.number,gs.getUserName());
+	}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>ArielAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 16:04:24</sys_created_on>
+        <sys_id>65c8f2d745f2d0107f44ecb4c2ad1fb8</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Request Notification</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sysauto_script_65c8f2d745f2d0107f44ecb4c2ad1fb8</sys_update_name>
+        <sys_updated_by>SushmitaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 18:29:21</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

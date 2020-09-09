@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="state" table="x_cdltd_ra_help_department_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_cdltd_ra_help_department_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 16:01:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d66b7e5b45f2d0107f44ecb4c2ad1f01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 16:01:21</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_cdltd_ra_help_department_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 16:01:21</sys_created_on>
+            <sys_id>966b3e5b45f2d0107f44ecb4c2ad1ffe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_ra_help_department_task_state</sys_update_name>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 16:01:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>sys_choice_x_cdltd_ra_help_department_task_state</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="state" table="x_cdltd_ra_help_department_task" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>state</element><hint/><inactive>false</inactive><label>Closed Complete</label><language>en</language><name>x_cdltd_ra_help_department_task</name><sequence>2</sequence><sys_created_by>DikshaAdmin</sys_created_by><sys_created_on>2020-08-28 16:01:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d66b7e5b45f2d0107f44ecb4c2ad1f01</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>DikshaAdmin</sys_updated_by><sys_updated_on>2020-08-28 16:01:21</sys_updated_on><value>3</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>state</element><name>x_cdltd_ra_help_department_task</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>DikshaAdmin</sys_created_by><sys_created_on>2020-08-28 16:01:21</sys_created_on><sys_id>966b3e5b45f2d0107f44ecb4c2ad1ffe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package><sys_policy/><sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope><sys_update_name>sys_choice_x_cdltd_ra_help_department_task_state</sys_update_name><sys_updated_by>DikshaAdmin</sys_updated_by><sys_updated_on>2020-08-28 16:01:21</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1720156768</payload_hash>
+        <record_name>x_cdltd_ra_help_department_task.state</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 16:05:08</sys_created_on>
+        <sys_id>0e4cfe9b45f2d0107f44ecb4c2ad1f2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17435d0c6e00000001</sys_recorded_at>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 16:05:08</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>864cfe9b7bf2d01009eaed87529e5a2e</update_guid>
+        <update_guid_history>864cfe9b7bf2d01009eaed87529e5a2e:-1720156768,064cfe9b4af2d010756aed8dd1760a2b:287663172,de6b7e5bd5f2d010804d09ca57a62303:-873959223</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 16:05:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>966b3e5b45f2d0107f44ecb4c2ad1ffe</sys_id>
+        <sys_metadata>966b3e5b45f2d0107f44ecb4c2ad1ffe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>sys_choice_x_cdltd_ra_help_department_task_state</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_cdltd_ra_help_department_task_state">0e4cfe9b45f2d0107f44ecb4c2ad1f2e</sys_update_version>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 16:05:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

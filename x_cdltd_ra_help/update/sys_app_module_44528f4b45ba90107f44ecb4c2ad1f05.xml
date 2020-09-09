@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Resident Directory">44520f4b45ba90107f44ecb4c2ad1fbf</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Resident Directories</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_ra_help_resident_directory</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin,x_cdltd_ra_help.Resident Assistant</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>SushmitaAdmin</sys_created_by>
+        <sys_created_on>2020-08-27 21:53:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44528f4b45ba90107f44ecb4c2ad1f05</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Resident Directories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_app_module_44528f4b45ba90107f44ecb4c2ad1f05</sys_update_name>
+        <sys_updated_by>SushmitaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 15:39:59</sys_updated_on>
+        <timeline_page/>
+        <title>Resident Directories</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

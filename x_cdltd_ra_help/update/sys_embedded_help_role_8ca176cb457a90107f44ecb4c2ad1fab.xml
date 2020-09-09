@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_ra_help.Health Department" name="x_cdltd_ra_help.Health Department">a410768b457a90107f44ecb4c2ad1fc7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>ArielAdmin</sys_created_by>
+        <sys_created_on>2020-08-27 20:40:06</sys_created_on>
+        <sys_id>8ca176cb457a90107f44ecb4c2ad1fab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a410768b457a90107f44ecb4c2ad1fc7</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8ca176cb457a90107f44ecb4c2ad1fab</sys_update_name>
+        <sys_updated_by>ArielAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-27 20:40:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

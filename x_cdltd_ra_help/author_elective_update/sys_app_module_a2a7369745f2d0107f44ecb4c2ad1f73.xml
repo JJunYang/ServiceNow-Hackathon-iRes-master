@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="RA Help">5c405a07453a90107f44ecb4c2ad1f3f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Department Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_ra_help_department_task</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_ra_help.department_task_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 15:44:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a2a7369745f2d0107f44ecb4c2ad1f73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Department Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_app_module_a2a7369745f2d0107f44ecb4c2ad1f73</sys_update_name>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 15:44:58</sys_updated_on>
+        <timeline_page/>
+        <title>Department Tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>sys_app_module_a2a7369745f2d0107f44ecb4c2ad1f73</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="RA Help">5c405a07453a90107f44ecb4c2ad1f3f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Department Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_ra_help_department_task</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_ra_help.department_task_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>DikshaAdmin</sys_created_by><sys_created_on>2020-08-28 15:44:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a2a7369745f2d0107f44ecb4c2ad1f73</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Department Tasks</sys_name><sys_overrides/><sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package><sys_policy/><sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope><sys_update_name>sys_app_module_a2a7369745f2d0107f44ecb4c2ad1f73</sys_update_name><sys_updated_by>DikshaAdmin</sys_updated_by><sys_updated_on>2020-08-28 15:44:58</sys_updated_on><timeline_page/><title>Department Tasks</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>917261780</payload_hash>
+        <record_name>Department Tasks</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 15:44:58</sys_created_on>
+        <sys_id>26a7369745f2d0107f44ecb4c2ad1f75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17435be4f8d0000001</sys_recorded_at>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 15:44:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6ea736970df2d010f6616db377094174</update_guid>
+        <update_guid_history>6ea736970df2d010f6616db377094174:917261780</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Department Tasks">254cbe9b45f2d0107f44ecb4c2ad1f59</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 16:05:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2c9ae28003324fa6b90528f4eea55764</sys_id>
+        <sys_metadata>a2a7369745f2d0107f44ecb4c2ad1f73</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Department Tasks</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>sys_app_module_a2a7369745f2d0107f44ecb4c2ad1f73</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a2a7369745f2d0107f44ecb4c2ad1f73">26a7369745f2d0107f44ecb4c2ad1f75</sys_update_version>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 16:05:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

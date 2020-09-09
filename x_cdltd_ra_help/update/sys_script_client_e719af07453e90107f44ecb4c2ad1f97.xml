@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Set Assigned to Group value automatically based on issue type.</description>
+        <field>issue_type</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Set Assigned to Group</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate){
+	if (isLoading||newValue=='')
+		return;
+	var issueType=g_form.getValue('issue_type');
+	if(issueType=='electronic'){
+		g_form.setValue('assignment_group','27a32f43453e90107f44ecb4c2ad1f9b');
+		g_form.setValue('assigned_to','7e7487d34536d0107f44ecb4c2ad1f53');
+	}
+	else if(issueType=='general_academic'){
+		g_form.setValue('assignment_group','33d36383453e90107f44ecb4c2ad1fa3');
+		g_form.setValue('assigned_to','7e7487d34536d0107f44ecb4c2ad1f53');
+	}
+	else if(issueType=='health'){
+		g_form.setValue('assignment_group','ba23eb43453e90107f44ecb4c2ad1fa0');
+		g_form.setValue('assigned_to','7e7487d34536d0107f44ecb4c2ad1f53');
+	}
+	else if(issueType=='roommate'){
+		g_form.setValue('assignment_group','b0c32383453e90107f44ecb4c2ad1fea');
+		g_form.setValue('assigned_to','7e7487d34536d0107f44ecb4c2ad1f53');
+	}
+   //Type appropriate comment here, and begin script below
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>JunAdmin</sys_created_by>
+        <sys_created_on>2020-08-28 00:52:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e719af07453e90107f44ecb4c2ad1f97</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_name>Set Assigned to Group</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_script_client_e719af07453e90107f44ecb4c2ad1f97</sys_update_name>
+        <sys_updated_by>JunAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 16:44:12</sys_updated_on>
+        <table>x_cdltd_ra_help_issue_request</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

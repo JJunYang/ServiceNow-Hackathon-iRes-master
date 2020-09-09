@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student Directory" max_length="40" name="x_cdltd_ra_help_student_directory" sizeclass="3" type="collection">
+        <element display="true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="encode_utf8=false" label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element label="NUID" mandatory="true" max_length="40" name="nuid" type="string"/>
+        <element label="Phone Number" mandatory="true" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+        <index name="index2">
+            <element name="first_name"/>
+            <element name="last_name"/>
+        </index>
+    </element>
+</database>

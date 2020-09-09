@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_cdltd_ra_help_sys_user_email</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:25:23</sys_created_on>
+        <sys_id>51802e4f453a90107f44ecb4c2ad1fa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_ra_help_sys_user_email</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>ua_table_licensing_config_51802e4f453a90107f44ecb4c2ad1fa0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:25:23</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>ua_table_licensing_config_51802e4f453a90107f44ecb4c2ad1fa0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_cdltd_ra_help_sys_user_email</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 19:25:23</sys_created_on><sys_id>51802e4f453a90107f44ecb4c2ad1fa0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_ra_help_sys_user_email</sys_name><sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package><sys_policy/><sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope><sys_update_name>ua_table_licensing_config_51802e4f453a90107f44ecb4c2ad1fa0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 19:25:23</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1262019988</payload_hash>
+        <record_name>x_cdltd_ra_help_sys_user_email</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:25:23</sys_created_on>
+        <sys_id>d9802e4f453a90107f44ecb4c2ad1fa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1743161bdb90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:25:23</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>15802e4fd93a901082b9eb718feca9a1</update_guid>
+        <update_guid_history>15802e4fd93a901082b9eb718feca9a1:1262019988</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 19:42:18</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>052ac0044b87498080444e72bff4f031</sys_id>
+        <sys_metadata>51802e4f453a90107f44ecb4c2ad1fa0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_ra_help_sys_user_email</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_51802e4f453a90107f44ecb4c2ad1fa0</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_51802e4f453a90107f44ecb4c2ad1fa0">d9802e4f453a90107f44ecb4c2ad1fa1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 19:42:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

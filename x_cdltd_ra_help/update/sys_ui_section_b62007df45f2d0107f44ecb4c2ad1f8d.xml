@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b62007df45f2d0107f44ecb4c2ad1f8d" sys_domain="global" table="x_cdltd_ra_help_department_task" version="3" view="Department_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_id</element>
+            <position>0</position>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 18:17:24</sys_created_on>
+            <sys_id>af8a9b974576d0107f44ecb4c2ad1f52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_department_task" sys_domain="global" view="34a9a2db45b2d0107f44ecb4c2ad1f54">b62007df45f2d0107f44ecb4c2ad1f8d</sys_ui_section>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 18:17:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 18:17:24</sys_created_on>
+            <sys_id>278a9b974576d0107f44ecb4c2ad1f53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_department_task" sys_domain="global" view="34a9a2db45b2d0107f44ecb4c2ad1f54">b62007df45f2d0107f44ecb4c2ad1f8d</sys_ui_section>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 18:17:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 18:17:24</sys_created_on>
+            <sys_id>a78a9b974576d0107f44ecb4c2ad1f53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_department_task" sys_domain="global" view="34a9a2db45b2d0107f44ecb4c2ad1f54">b62007df45f2d0107f44ecb4c2ad1f8d</sys_ui_section>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 18:17:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 18:17:24</sys_created_on>
+            <sys_id>2b8a9b974576d0107f44ecb4c2ad1f53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_department_task" sys_domain="global" view="34a9a2db45b2d0107f44ecb4c2ad1f54">b62007df45f2d0107f44ecb4c2ad1f8d</sys_ui_section>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 18:17:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue</element>
+            <position>4</position>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 18:17:24</sys_created_on>
+            <sys_id>ab8a9b974576d0107f44ecb4c2ad1f53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_ra_help_department_task" sys_domain="global" view="34a9a2db45b2d0107f44ecb4c2ad1f54">b62007df45f2d0107f44ecb4c2ad1f8d</sys_ui_section>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 18:17:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_cdltd_ra_help_department_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>DikshaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 16:22:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b62007df45f2d0107f44ecb4c2ad1f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_ra_help_department_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+            <sys_update_name>sys_ui_section_b62007df45f2d0107f44ecb4c2ad1f8d</sys_update_name>
+            <sys_updated_by>DikshaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 16:22:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Department View" name="Department_View">34a9a2db45b2d0107f44ecb4c2ad1f54</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

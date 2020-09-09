@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Issue Request" max_length="40" name="x_cdltd_ra_help_issue_request" sizeclass="3" type="collection">
+        <element label="Additional Details" max_length="40" name="additional_details" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="electronic" label="What type of issue are you having?" mandatory="true" max_length="40" name="issue_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Electronic Issues" sequence="0" value="electronic"/>
+                <element inactive_on_update="false" label="General Academic Issues" sequence="1" value="general_academic"/>
+                <element inactive_on_update="false" label="Health Issues" sequence="2" value="health"/>
+                <element inactive_on_update="false" label="Roommate Issues" sequence="3" value="roommate"/>
+                <element inactive_on_update="false" label="Lost and Found" sequence="4" value="lost_and_found"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Other Issue" mandatory="true" max_length="40" name="other_issue" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Please provide a short description of your problem." mandatory="true" max_length="500" name="problem_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Submit request on" mandatory="true" max_length="40" name="request_date" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Student Name" mandatory="true" max_length="32" name="student_name" reference="x_cdltd_ra_help_student_directory" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>

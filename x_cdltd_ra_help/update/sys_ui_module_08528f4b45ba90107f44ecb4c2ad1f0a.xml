@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Resident Directory">00528f4b45ba90107f44ecb4c2ad1f08</application>
+        <filter/>
+        <name>Resident Directories</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>SushmitaAdmin</sys_created_by>
+        <sys_created_on>2020-08-27 21:53:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08528f4b45ba90107f44ecb4c2ad1f0a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Resident Directories</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_ui_module_08528f4b45ba90107f44ecb4c2ad1f0a</sys_update_name>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-28 15:24:17</sys_updated_on>
+        <table>x_cdltd_ra_help_resident_directory</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

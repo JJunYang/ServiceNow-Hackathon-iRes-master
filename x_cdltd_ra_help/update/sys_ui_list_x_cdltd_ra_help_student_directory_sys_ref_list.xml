@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_cdltd_ra_help_student_directory" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_cdltd_ra_help_student_directory" element="NULL" name="x_cdltd_ra_help_student_directory" parent="NULL" relationship="NULL" sys_domain="global" view="542a3041082300107f447452aafab967">8c3910d345be90107f44ecb4c2ad1fa7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>SushmitaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 04:12:35</sys_created_on>
+            <sys_id>4c3910d345be90107f44ecb4c2ad1fa8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SushmitaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:12:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_cdltd_ra_help_student_directory" element="NULL" name="x_cdltd_ra_help_student_directory" parent="NULL" relationship="NULL" sys_domain="global" view="542a3041082300107f447452aafab967">8c3910d345be90107f44ecb4c2ad1fa7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>SushmitaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 04:12:35</sys_created_on>
+            <sys_id>c03910d345be90107f44ecb4c2ad1fa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SushmitaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:12:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nuid</element>
+            <list_id display_value="x_cdltd_ra_help_student_directory" element="NULL" name="x_cdltd_ra_help_student_directory" parent="NULL" relationship="NULL" sys_domain="global" view="542a3041082300107f447452aafab967">8c3910d345be90107f44ecb4c2ad1fa7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>SushmitaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 04:12:35</sys_created_on>
+            <sys_id>443910d345be90107f44ecb4c2ad1fa9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>SushmitaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:12:35</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_cdltd_ra_help_student_directory</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>SushmitaAdmin</sys_created_by>
+            <sys_created_on>2020-08-28 04:12:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c3910d345be90107f44ecb4c2ad1fa7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_ra_help_student_directory</sys_name>
+            <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+            <sys_update_name>sys_ui_list_x_cdltd_ra_help_student_directory_sys_ref_list</sys_update_name>
+            <sys_updated_by>SushmitaAdmin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:12:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">542a3041082300107f447452aafab967</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

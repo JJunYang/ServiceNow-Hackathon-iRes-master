@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_cdltd_ra_help_issue_request">request_date&lt;javascript:gs.beginningOfToday()^EQ<item endquery="false" field="request_date" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	alert("Date must not be a prior date");
+	g_form.clearValue('request_date');
+}]]></script_true>
+        <set_values/>
+        <short_description>Date must not be a prior date</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-27 21:50:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a61434b45ba90107f44ecb4c2ad1fee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Date must not be a prior date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_update_name>sys_ui_policy_5a61434b45ba90107f44ecb4c2ad1fee</sys_update_name>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-27 21:58:49</sys_updated_on>
+        <table>x_cdltd_ra_help_issue_request</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</application>
+        <file_path/>
+        <instance_id>3f5e04711b7a9c1888c56288bd4bcba9</instance_id>
+        <instance_name>adf-aug-102-dev-008</instance_name>
+        <name>sys_ui_policy_5a61434b45ba90107f44ecb4c2ad1fee</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_cdltd_ra_help_issue_request"&gt;request_date&amp;lt;javascript:gs.beginningOfToday()^EQ&lt;item endquery="false" field="request_date" goto="false" newquery="false" operator="&amp;lt;" or="false" value="javascript:gs.beginningOfToday()"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+	alert("Date must not be a prior date");
+	g_form.clearValue('request_date');
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Date must not be a prior date&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;DikshaAdmin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-08-27 21:50:06&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5a61434b45ba90107f44ecb4c2ad1fee&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Date must not be a prior date&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="RA Help" source="x_cdltd_ra_help"&gt;8ffe8ec3453a90107f44ecb4c2ad1f34&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="RA Help"&gt;8ffe8ec3453a90107f44ecb4c2ad1f34&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_5a61434b45ba90107f44ecb4c2ad1fee&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;DikshaAdmin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-08-27 21:58:49&lt;/sys_updated_on&gt;&lt;table&gt;x_cdltd_ra_help_issue_request&lt;/table&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1863338475</payload_hash>
+        <record_name>Date must not be a prior date</record_name>
+        <reverted_from/>
+        <source>03fe8ec3453a90107f44ecb4c2ad1f37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-27 21:58:49</sys_created_on>
+        <sys_id>4da343cb45ba90107f44ecb4c2ad1f32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17431ee38c20000001</sys_recorded_at>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-27 21:58:49</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>c5a343cbc0ba901001a974a4264ece32</update_guid>
+        <update_guid_history>c5a343cbc0ba901001a974a4264ece32:1863338475,8b638f8bb3ba901079f71d4f81d177c8:-1065947127,59a1874b47ba9010ceb0adb58882355d:1758511918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>DikshaAdmin</sys_created_by>
+        <sys_created_on>2020-08-27 22:00:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>0c46eea1f98b4d209a78e5888c1bda40</sys_id>
+        <sys_metadata>5a61434b45ba90107f44ecb4c2ad1fee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date must not be a prior date</sys_name>
+        <sys_package display_value="RA Help" source="x_cdltd_ra_help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_package>
+        <sys_parent display_value="Issue Request">af201a07453a90107f44ecb4c2ad1fd7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RA Help">8ffe8ec3453a90107f44ecb4c2ad1f34</sys_scope>
+        <sys_scope_delete display_value="">5ef5865072b04ad29c8585fb616df1c1</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_5a61434b45ba90107f44ecb4c2ad1fee</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_5a61434b45ba90107f44ecb4c2ad1fee">4da343cb45ba90107f44ecb4c2ad1f32</sys_update_version>
+        <sys_updated_by>DikshaAdmin</sys_updated_by>
+        <sys_updated_on>2020-08-27 22:00:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
